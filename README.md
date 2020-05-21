@@ -1,4 +1,6 @@
 ### Online Farnichar Shopping App
-
-### App UI
-<img src="https://i.ibb.co/XJjcj7m/furnichar.png" alt="furnichar" border="0" />
+### UI Credit https://www.pinterest.ca/pin/796926096551096966/
+### Flutter App UI
+<img src="https://github.com/narendra-vaniya/farnichar-bazar/blob/master/farnichar1.png" alt="farnichar" border="0" />
+### Screens
+<img src="https://github.com/narendra-vaniya/farnichar-bazar/blob/master/farnichar2.png" alt="farnichar" border="0" />
