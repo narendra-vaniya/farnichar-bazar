@@ -16,6 +16,7 @@ class _LoginTypeState extends State<LoginType> {
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(
+            colorFilter: ColorFilter.mode(Colors.blueGrey, BlendMode.screen),
             fit: BoxFit.cover,
             image: AssetImage(
               AppImage.getImage(
@@ -30,8 +31,11 @@ class _LoginTypeState extends State<LoginType> {
             crossAxisAlignment: CrossAxisAlignment.stretch,
             mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: <Widget>[
-              FlutterLogo(
-                size: 200,
+              Container(
+                padding: EdgeInsets.symmetric(horizontal: 130),
+                child: Image.asset(
+                  AppImage.getIcon(iconName: 'logo.png'),
+                ),
               ),
               Column(
                 crossAxisAlignment: CrossAxisAlignment.stretch,

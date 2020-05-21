@@ -34,7 +34,7 @@ class AppConstant {
     ["Sofa/MckellenL.jpg", "Henry L","\$350"],
      ["Sofa/NicolasL.jpg", "Henry L","\$350"],
    
-   ["Sofa/ParsonsWoodenSofa-Teak Finish.jpg", "Henry L","\$350"],
+   ["Sofa/ParsonsWoodenSofa-TeakFinish.jpg", "Henry L","\$350"],
     ["Chairs/NobelRockingChair.jpg", "Albin Rocking Chair","\$350"],
     ["Sofa/OmegaL.jpg", "Henry L","\$350"],
     
@@ -78,7 +78,7 @@ class AppConstant {
    ["Sofa/MckellenL.jpg", "Henry L","\$350"],
    ["Sofa/NicolasL.jpg", "Henry L","\$350"],
    ["Sofa/OmegaL.jpg", "Henry L","\$350"],
-   ["Sofa/ParsonsWoodenSofa-Teak Finish.jpg", "Henry L","\$350"],
+   ["Sofa/ParsonsWoodenSofa-TeakFinish.jpg", "Henry L","\$350"],
    ["Sofa/RykerL.jpg", "Henry L","\$350"],
    ["Sofa/SatoriWoodenSofa.jpg", "Henry L","\$350"],
    ["Sofa/SolaceL-ShapedWoodenSofa.jpg", "Henry L","\$350"],
@@ -99,7 +99,7 @@ class AppConstant {
    ["Tables/JeroldStudyTable(WalnutFinish).jpg", "Henry L","\$350"],
    ["Tables/JeromeAdjustableTable(HoneyFinish).jpg", "Henry L","\$350"],
    ["Tables/LyntonStudyTable(WalnutFinish).jpg", "Henry L","\$350"],
-   ["Tables/WallaceComputerTable(Honey Finish).jpg", "Henry L","\$350"],
+   ["Tables/WallaceComputerTable(HoneyFinish).jpg", "Henry L","\$350"],
   ];
 
   static List cart=[
